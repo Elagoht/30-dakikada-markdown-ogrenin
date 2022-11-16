@@ -84,7 +84,7 @@ desteklemeyecektir. Burada HTML kodları kullanmanız gerekecektir.
 * ~~Üstü çizili yazı~~
 * <u>Altı çizili yazı</u>
 * ==Fonu renkli yazı== (Çoğunlukla desteklenmez.)
-* <span style="background: yellow; color: black;">Fonu renkli yazı</span>
+* <mark>Fonu renkli yazı</mark>
 ```
 
 Bu gösterimlerin HTML hâli şu şekildedir:
@@ -101,7 +101,7 @@ Bu gösterimlerin HTML hâli şu şekildedir:
 	<li><strike>Üstü çizili yazı</strike></li>
 	<li><u>Altı çizili yazı</u></li>
 	<li>==Fonu renkli yazı== (Çoğunlukla desteklenmez.)</li>
-    <li><span style="background: yellow; color: black;">Fonu renkli yazı</span></li>
+    <li><mark>Fonu renkli yazı</mark></li>
 </ul>
 ```
 
@@ -119,7 +119,7 @@ Dokümanın işlenmiş hâli:
 * ~~Üstü çizili yazı~~
 * <u>Altı çizili yazı</u>
 * ==Fonu renkli yazı== (Çoğunlukla desteklenmez.)
-* <span style="background: yellow; color: black;">Fonu renkli yazı</span>
+* <mark>Fonu renkli yazı</mark>
 
 ## Başlıklar
 
