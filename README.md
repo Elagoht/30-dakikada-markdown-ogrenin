@@ -178,7 +178,7 @@ faucibus a pellentesque sit amet.
 
 ## Sıralı ve Sırasız Listeler
 
-Listelerde sıranın önemli olduğu ce olmadığı durumlarda iki farklı türünü
+Listelerde sıranın önemli olduğu ve olmadığı durumlarda iki farklı türünü
 kullanıyoruz.
 
 ### Sıralı Listeler 
