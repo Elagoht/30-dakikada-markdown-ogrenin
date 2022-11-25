@@ -1,9 +1,9 @@
 ![MarkDown](https://img.shields.io/badge/Kurs-MarkDown-white?style=for-the-badge&logo=markdown)
 ![Dil](https://img.shields.io/badge/Kaynak-T%C3%BCrk%C3%A7e-red?style=for-the-badge&logo=bookstack&logoColor=white)
-<!-- Video bağlantıları, video yayınlandığında eklenecek -->
-<!-- [![YouTube Video](https://img.shields.io/badge/Videoya_gİt-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=<VIDEO>) -->
-<!-- ![YouTube Video Views](https://img.shields.io/youtube/views/<VIDEO>?label=%C4%B0zlemeler&logo=youtube&logoColor=red&style=for-the-badge) -->
-<!-- ![YouTube Video Likes](https://img.shields.io/youtube/likes/<VIDEO>?label=Beğeniler&logo=undertale&logoColor=red&style=for-the-badge) -->
+<br/>
+[![YouTube Video](https://img.shields.io/badge/Videoya_gİt-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=uRM54l1bQrk)
+![YouTube Video Views](https://img.shields.io/youtube/views/uRM54l1bQrk?label=%C4%B0zlemeler&logo=youtube&logoColor=red&style=for-the-badge)
+![YouTube Video Likes](https://img.shields.io/youtube/likes/uRM54l1bQrk?label=Beğeniler&logo=undertale&logoColor=red&style=for-the-badge)
 
 # MarkDown Nedir?
 
@@ -101,7 +101,7 @@ Bu gösterimlerin HTML hâli şu şekildedir:
 	<li><strike>Üstü çizili yazı</strike></li>
 	<li><u>Altı çizili yazı</u></li>
 	<li>==Fonu renkli yazı== (Çoğunlukla desteklenmez.)</li>
-    <li><mark>Fonu renkli yazı</mark></li>
+	<li><mark>Fonu renkli yazı</mark></li>
 </ul>
 ```
 
@@ -344,7 +344,7 @@ Bu gösterimin HTML karşılığı şu şekildedir.
 
 ---
 
-Dokümanun işlenmiş hâli:
+Dokümanın işlenmiş hâli:
 
 ```
 def sayHi():
@@ -637,7 +637,7 @@ Gösterimin HTML karşılığı şu şekilde olacaktır:
 	<dt>Shell Script</dt>
 	<dd>Unix kabuk programlama için kullanılan betik dilidir.</dd>
 	<dt>Rust</dt>
-    <dd>Düşük seviye bir dil sahip olan Rust, hafıza yönetimini en yüksek performansla sağlamaktadır.</dd>
+	<dd>Düşük seviye bir dil sahip olan Rust, hafıza yönetimini en yüksek performansla sağlamaktadır.</dd>
 </dl>
 ```
 
