@@ -1,9 +1,15 @@
-![MarkDown](https://img.shields.io/badge/Kurs-MarkDown-white?style=for-the-badge&logo=markdown)
+![MarkDown](https://img.shields.io/badge/Kurs-MarkDown-cccccc?style=for-the-badge&logo=markdown)
 ![Dil](https://img.shields.io/badge/Kaynak-T%C3%BCrk%C3%A7e-red?style=for-the-badge&logo=bookstack&logoColor=white)
-<br/>
+
+Videolu içerikten faydalanın! (Belki 20 dakikada da öğrenebilirsiniz.)
+
 [![YouTube Video](https://img.shields.io/badge/Videoya_gİt-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=uRM54l1bQrk)
 ![YouTube Video Views](https://img.shields.io/youtube/views/uRM54l1bQrk?label=%C4%B0zlemeler&logo=youtube&logoColor=red&style=for-the-badge)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/uRM54l1bQrk?label=Beğeniler&logo=undertale&logoColor=red&style=for-the-badge)
+
+Github hesabınız varsa repoya yıldız bırakmayı unutmayın. :smile:
+
+![Yıldızlar](https://img.shields.io/github/stars/Elagoht/30-dakikada-markdown-ogrenin?Label=Yıldızlar&logo=starship&logoColor=white&style=for-the-badge)
 
 # MarkDown Nedir?
 
